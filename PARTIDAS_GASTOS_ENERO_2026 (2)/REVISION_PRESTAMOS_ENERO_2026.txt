@@ -1,0 +1,31 @@
+﻿COMPLEMENTO DE ENERO 2026 — FECHA CONTABLE 31/01/2026
+
+Importar solamente las partidas 23 a 26 si ya se cargaron las partidas 1 a 22.
+Se conserva el formato Excel 97-2003 XLS y las seis columnas originales.
+Las fechas y números de recibo se conservan en la referencia de cada movimiento.
+Capital, intereses, otros intereses/mora y seguros separados según los recibos y el criterio usado en 2025.
+BAC: el abono extraordinario se suma al capital; no se registra como gasto.
+PROMERICA 1097487: la póliza de $82.41 se clasifica como seguro de deuda, igual que en 2025.
+
+23. BAC: tres pagos, $12,000.00.
+24. PROMERICA 1097487: $4,000.00.
+25. FIREMPRESA FE0050151: $350.00.
+26. ROTATIVO 1135614: pagos del 26, 27 y 28 de enero, $75,817.67. Capital cancelado $74,768.38; saldo final $0.00.
+
+SALDOS DE CAPITAL DESPUÉS DE LAS PARTIDAS INCLUIDAS
+22010101 BANCO AMERICA CENTRAL REF. 405158650: $241,345.28
+22010102 BANCO AMERICA CENTRAL REF: 405484020: $69,745.21
+22010105 BANCO AMERICA CENTRAL REF:404582000: $11,878.50
+22010103 BANCO PROMERICA REF: 1097487: $34,935.88
+22010104 FIREMPRESA: $16,208.15
+21010203 BANCO PROMERICA LINEA ROTATIVA 3: $0.00
+
+PENDIENTES
+Cancelación rotativa del 28/01/2026, recibo 7076185, incluida: total $26,494.67 confirmado por el usuario; capital $26,482.50 e interés corriente $8.52 según recibo. Mora determinada por diferencia $3.65. Crédito 1135614 cancelado, saldo $0.00.
+Depreciación: continúa pendiente por instrucción del usuario.
+No se repiten Credi Q, Autofácil ni los recibos de diciembre: ya están reflejados en las partidas anteriores y en el BC 2025.
+
+FUENTES
+PRESTAMOS Y PAGOS.pdf: páginas 1, 29, 31, 32, 33 y 34.
+BC 2025 DICASAH.xlsx: saldos al cierre de 2025.
+CONTABILIDAD.zip: partidas de préstamos de noviembre/diciembre de 2025.

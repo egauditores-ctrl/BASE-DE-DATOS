@@ -1,0 +1,27 @@
+﻿MARZO 2026 - CONSOLIDADO
+
+LISTAS PARA IMPORTAR: 19 partidas XLS en la carpeta principal, numeradas 1 al 19. Cada archivo esta cuadrado a dos decimales con diferencia $0.00.
+Cobertura: 400 de los 401 documentos del anexo. El documento pendiente es la Hilux (ref. 270).
+Formato Excel 97-2003 BIFF8, seis columnas de importacion, conservando estilos y anchos de las plantillas usadas en febrero.
+La condicion del anexo se ignora. Gastos de mas de cinco documentos acumulados por cuenta; Autofacil y Credi Q detallados.
+
+19. ISUZU: activo 12010612, VIN JAA1MR77FT7101434. Cargo al activo $23,495.75 mas IVA $3,004.25. Abono provisional 22010207 $26,500.00.
+Cuenta nueva del pasivo: FINANCIAMIENTO CAMION ISUZU 2026, REFERENCIA PENDIENTE. El usuario autorizo crearla y actualizar el credito despues. Faltan acreedor, referencia y detalle de prima/financiamiento. Placa del Isuzu no identificada.
+
+PENDIENTES: partida 20 de Hilux y borrador 21 de impuestos, separados en PENDIENTES. No importar el XLS borrador 21 hasta completar la Hilux.
+Se conservan pendientes depreciacion, pagos de prestamos sin soporte y pago a proveedores sin detalle de pagos efectuados.
+
+SUELDOS: $24,449.91, coinciden con F14. Pago neto $22,033.74. Subsidios ISSS excluidos $370.76 (Oscar Rene Hernandez $70.83 y Wilmar Antonio Franco $299.93); cuotas patronales correspondientes incluidas.
+ISSS laboral $643.55 y patronal $1,608.83. AFP laboral $1,772.62 y patronal $2,171.89. INCAF $214.50.
+Carlos conserva el tratamiento de enero y febrero en sueldo y cuotas patronales.
+
+Autofacil: $377 gastos notariales y $955 comision de otorgamiento. Credi Q: prestamos 39472 $3,000; 39493 $2,500; 44426 $1,500. No se asociaron esos pagos a los nuevos vehiculos sin soporte.
+Ref. 161 Grupo Multinet, clasificada PYU en el anexo, se incluye en papeleria y utiles 41021010; el comprobante describe CPU Lenovo y accesorios.
+Mantenimiento de local a 41030201 segun clasificacion de gasto de venta.
+
+CONCILIACION PROYECTADA DESPUES DE REGISTRAR HILUX Y BORRADOR 21:
+Ventas netas $373,748.60; IVA debito $48,587.32; IVA credito $48,301.12; impuesto determinado $286.20; percepciones $2,185.59; excedente IVA final $2,157.01; IVA a pagar $0.00.
+El borrador 21 incluye ajuste explicito de $0.03 por redondeo a 110801 contra 41021012 para conciliar con F07.
+Pago a cuenta $6,540.60; excedente ISR final $45,363.10.
+Retencion F14 $667.90 con cargo a efectivo y abono a 21040301, segun criterio autorizado. El gasto de eventuales no se registra.
+La liquidacion anual ISR 2025 no se repite.

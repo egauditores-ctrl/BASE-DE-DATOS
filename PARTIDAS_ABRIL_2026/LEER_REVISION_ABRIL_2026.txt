@@ -1,0 +1,27 @@
+﻿ABRIL 2026 - CONSOLIDADO
+
+19 partidas listas, numeradas 1 al 19. Formato XLS Excel 97-2003 BIFF8 de las muestras 2025. Diferencia entre cargos y abonos $0.00 en cada partida; importes a dos decimales.
+573 documentos del anexo incluidos exactamente una vez. Todos clasificados. No hay compras 9-9-9-9 ni documentos fechados en 2025.
+Se ignora la columna condicion. Gastos de mas de cinco documentos acumulados por cuenta. Credi Q detallado por documento, capital, GPS, intereses corrientes/moratorios, seguro e IVA.
+
+PLANILLA
+Sueldos registrados $23,912.55: venta $18,152.55, administracion $5,760.00. Subsidio ISSS excluido $275.00. Pago neto $21,551.54.
+ISSS laboral $627.36; AFP laboral $1,733.65; ISSS patronal $1,568.59; AFP patronal $2,116.44; INCAF $209.13.
+La base es la planilla unica, clasificada por DUI con RETENCIONES del mes. Se mantienen cuotas patronales de las lineas subsidiadas y controles de Carlos por sueldo $4,000, ISSS $75 y AFP $350.
+
+IMPUESTOS
+Ventas netas $318,847.47. IVA credito neto $39,568.09; IVA debito neto $41,450.17. Ajuste explicito al credito IVA por redondeo $-0.03, contra 41021012; sin alterar documentos para forzar diferencias.
+Percepciones $1,660.32; excedente IVA anterior $2,157.01; excedente IVA final $1,935.25; IVA por pagar $0.00, provisionado en 210303 cuando corresponde.
+Pago a cuenta $5,579.83 aplicado al excedente ISR; excedente ISR final $39,783.27. No se repite liquidacion anual ISR 2025.
+Retencion F14 $786.85, cargo a efectivo y abono a 21040301 segun criterio autorizado. No se registra el gasto de eventuales. Retenciones calculadas por documento a centavos, coinciden con declaracion.
+
+PENDIENTES QUE NO SE INVENTARON
+Depreciacion, por instruccion. Pagos a proveedores sin detalle de pagos y otros prestamos sin respaldo.
+La Hilux P1198EA de marzo mantiene pendiente su pasivo/financiamiento y el cierre definitivo de impuestos de marzo. Los arrastres de abril y mayo se tomaron de sus declaraciones; se requiere completar las partidas pendientes de marzo para que el mayor acumulado reproduzca todos los arrastres.
+Isuzu de marzo: conserva pasivo provisional 22010207, referencia pendiente, conforme a autorizacion.
+No se encontraron documentos de Autofacil en los anexos de estos meses; no se repiten cuotas de periodos anteriores.
+
+CLASIFICACION RESUELTA: ref. 493, NC Unilever A2B9FBE8-60A3-4019-B614-64C4B9DEA732, neto $3.35 e IVA $0.44. Es devolucion de mercaderia SURF, incluida en partida 6, con base en el comprobante. Los 9 empleados antes pendientes ya tienen clasificacion del anexo de abril.
+Las partidas 1 a 3 conservan los archivos entregados en el avance anterior.
+
+CREDI Q: capital conciliado contra BC 2025 y partidas enero/marzo/abril/mayo; los prestamos 39472, 39493 y 44426 quedan con saldo de capital $0.00 al finalizar mayo, segun los registros disponibles.

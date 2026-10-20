@@ -1,0 +1,28 @@
+﻿REVISION FEBRERO 2026
+
+18 partidas, correlativo 1 al 18. Formato Excel 97-2003 XLS.
+441 documentos del anexo contabilizados, sin duplicados de enero y sin gastos sin clasificar.
+Gastos con mas de 5 documentos acumulados por cuenta. Condicion de pago del anexo ignorada.
+Mantenimiento de mobiliario: cuenta 41030202, segun clasificacion gasto de venta.
+
+CONCILIACION
+Ventas netas F07/F14: $459,402.86
+IVA credito del mes: $33,984.23 (valores de detalle con cuatro decimales).
+IVA debito neto: $59,722.38
+IVA a pagar: $0.00; excedente proximo mes: $257.62.
+Pago a cuenta: $8,039.55, aplicado al excedente de ISR. Excedente final: $51,903.70.
+Retencion F14: $539.50 registrada con cargo a efectivo y abono a 21040301, segun criterio autorizado.
+Sueldos: $25,010.42. Pago neto: $22,536.84. Subsidio ISSS $113.33 excluido; cuotas patronales de la planilla incluidas.
+ISSS patronal: $1,650.93. AFP patronal: $2,198.41. INCAF: $220.10.
+18 documentos de enero no repetidos se contabilizaron en febrero. No hay documentos de 2025.
+Seguros incluyen $787.81 exentos. Se conservaron los importes gravados residuales del anexo a cuatro decimales.
+
+PENDIENTES
+Depreciacion, segun instruccion.
+Prestamos: faltan respaldos de pagos de febrero (BAC, Promerica, credito rotativo, Firempresa y los demas aplicables).
+Autofacil y Credi Q: no hay documentos de febrero en el anexo; no se repitieron importes de enero.
+Pago a proveedores: pendiente identificar pagos de febrero; no se asumio que todas las compras de enero fueron pagadas.
+Comunicaciones y comisiones: sin documentos identificados en el anexo, sin partida.
+Liquidacion anual ISR 2025: ya registrada en enero, no repetida.
+
+Ajuste fraccionario IVA: cargo a 41021012 por $0.0079 para conciliar el detalle de cuatro decimales con el excedente de $257.62 del F07.

@@ -1,0 +1,7 @@
+﻿PARTIDA 20 PENDIENTE - HILUX
+Activo autorizado: 12010613 TOYOTA HILUX 2027 PLACA P1198EA VIN 8AJBA3CD007988859.
+Factura Distribuidora de Automoviles 24/03/2026. Generacion 34DAEE3D-5CD3-4DFA-B886-96BA82A6B6FE.
+Cargo al activo $51,668.96. Cargo IVA 110801 $6,716.96. Total abonos por distribuir $58,385.92.
+Falta identificar acreedor, cuenta de pasivo, referencia del financiamiento y prima, si hubo.
+La placa fue proporcionada por el usuario; no figura en la factura.
+El borrador 21 de impuestos presupone completar este registro. NO IMPORTAR ese borrador hasta completar la partida 20.

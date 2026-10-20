@@ -1,0 +1,17 @@
+﻿CUENTA DE PASIVO PARA AGREGAR AL CATALOGO Y AL SISTEMA
+22010207 - FINANCIAMIENTO CAMION ISUZU 2026 VIN JAA1MR77FT7101434 - REFERENCIA PENDIENTE
+Cuenta superior: 220102 PRESTAMOS A ACREEDORES LARGO PLAZO.
+Saldo inicial provisional de esta adquisicion: $26,500.00, total de factura.
+Pendientes: acreedor, referencia del credito, monto efectivamente financiado y prima, si hubo. El codigo de cuenta se conserva al completar la referencia, salvo que deba reclasificarse por la naturaleza del acreedor.
+
+ACTIVO
+12010612 - CAMION ISUZU 2026 VIN JAA1MR77FT7101434
+Placa: no identificada en el comprobante.
+
+PARTIDA 19 - MARZO 2026
+20/03/2026 - Grupo Q. Generacion BE2220D7-2F57-4FD7-BE6C-068825796828.
+Cargo 12010612: $23,495.75 (base $23,109.58 mas cargos no gravados de adquisicion $386.17).
+Cargo 110801: $3,004.25 IVA.
+Abono 22010207: $26,500.00 provisional, pendiente detalle del financiamiento.
+Cargos $26,500.00. Abonos $26,500.00. Diferencia $0.00.
+La Hilux P1198EA conserva cuenta de activo 12010613 y financiamiento pendiente de definir.

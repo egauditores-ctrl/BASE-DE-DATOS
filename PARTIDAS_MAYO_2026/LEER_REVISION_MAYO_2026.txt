@@ -1,0 +1,28 @@
+﻿MAYO 2026 - CONSOLIDADO
+
+18 partidas listas, numeradas 1 al 18. Formato XLS Excel 97-2003 BIFF8 de las muestras 2025. Diferencia entre cargos y abonos $0.00 en cada partida; importes a dos decimales.
+443 documentos del anexo incluidos exactamente una vez. Todos clasificados. No hay compras 9-9-9-9 ni documentos fechados en 2025.
+Se ignora la columna condicion. Gastos de mas de cinco documentos acumulados por cuenta. Credi Q detallado por documento, capital, GPS, intereses corrientes/moratorios, seguro e IVA.
+
+PLANILLA
+Sueldos registrados $23,968.52: venta $18,468.52, administracion $5,500.00. Subsidio ISSS excluido $550.00. Pago neto $21,601.74.
+ISSS laboral $629.06; AFP laboral $1,737.72; ISSS patronal $1,572.76; AFP patronal $2,145.40; INCAF $209.69.
+La base es la planilla unica, clasificada por DUI con RETENCIONES del mes. Se mantienen cuotas patronales de las lineas subsidiadas y controles de Carlos por sueldo $4,000, ISSS $75 y AFP $350.
+
+IMPUESTOS
+Ventas netas $335,293.99. IVA credito neto $29,124.31; IVA debito neto $43,588.22. Ajuste explicito al credito IVA por redondeo $-0.01, contra 41021012; sin alterar documentos para forzar diferencias.
+Percepciones $1,218.66; excedente IVA anterior $1,935.25; excedente IVA final $0.00; IVA por pagar $11,310.00, provisionado en 210303 cuando corresponde.
+Pago a cuenta $5,867.64 aplicado al excedente ISR; excedente ISR final $33,915.63. No se repite liquidacion anual ISR 2025.
+Retencion F14 $645.64, cargo a efectivo y abono a 21040301 segun criterio autorizado. No se registra el gasto de eventuales. Retenciones calculadas por documento a centavos, coinciden con declaracion.
+
+PENDIENTES QUE NO SE INVENTARON
+Depreciacion, por instruccion. Pagos a proveedores sin detalle de pagos y otros prestamos sin respaldo.
+La Hilux P1198EA de marzo mantiene pendiente su pasivo/financiamiento y el cierre definitivo de impuestos de marzo. Los arrastres de abril y mayo se tomaron de sus declaraciones; se requiere completar las partidas pendientes de marzo para que el mayor acumulado reproduzca todos los arrastres.
+Isuzu de marzo: conserva pasivo provisional 22010207, referencia pendiente, conforme a autorizacion.
+No se encontraron documentos de Autofacil en los anexos de estos meses; no se repiten cuotas de periodos anteriores.
+
+CLASIFICACION CORREGIDA: ref. 183, PriceSmart 169593C9-8D74-47DE-A9BE-7481A4F51EFD, anexo ESTANTE. Comprobante Account Fee $80 + Add-On Card $20: membresia, cuenta 41021012, IVA $13, pago $113. No es un activo.
+DIFERENCIA INFORMATIVA A REVISAR EN F14: incluye sueldo de Ruth de $550 subsidiado por ISSS. F14/Excel reportan sueldos $24,518.52, AFP laboral $1,777.60 e ISSS $645.56. Planilla y libros: sueldo pagado por empresa $23,968.52, AFP laboral $1,737.72 e ISSS $629.06. Diferencias: subsidio $550, AFP $39.88 e ISSS $16.50. Se conserva la planilla y la instruccion de excluir el subsidio; no se modifica la declaracion.
+Se uso F07 MOD de mayo. IVA de mayo por pagar $11,310.00: se pagara en el mes siguiente, no se simulo pago en mayo.
+
+CREDI Q: capital conciliado contra BC 2025 y partidas enero/marzo/abril/mayo; los prestamos 39472, 39493 y 44426 quedan con saldo de capital $0.00 al finalizar mayo, segun los registros disponibles.
